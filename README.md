@@ -1,4 +1,4 @@
-# ETHOS-CAMB (CAMB_ETHOSV1_TEST) — debugged rebuild
+## ETHOS-CAMB (CAMB_ETHOSV1_TEST) — debugged rebuild
 
 A debugged rebuild of **ETHOS-CAMB** by Francis-Yan Cyr-Racine, the code that
 computes cosmological perturbations for dark matter interacting with dark
@@ -16,7 +16,7 @@ The physics is unchanged: same ETHOS parametrization, same CAMB 2014-04 base,
 same usage (`./ethos_camb params.ini` with extra ETHOS parameters — see
 `params.ini` for details).
 
-## What this fork fixes
+### What this fork fixes
 
 The upstream code crashes or silently produces NaN (e.g. σ₈) in the
 zero/near-zero dark-opacity regime needed to reproduce ETHOS paper Fig. 1(left).
