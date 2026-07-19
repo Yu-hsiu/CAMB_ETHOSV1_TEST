@@ -94,7 +94,7 @@ This code is provided with no guarantee. Use at your own risk.
 
 ## 中文摘要
 
-本 repo 是 Cyr-Racine 原版 ETHOS-CAMB(暗物質–暗輻射交互作用宇宙學擾動程式,
+本 repo 是針對 Cyr-Racine 原版 ETHOS-CAMB(暗物質–暗輻射交互作用宇宙學擾動程式,
 CAMB 2014-04 基底)的**修復重建版**:物理模型不變,修掉原版在零/極低暗
 opacity 下崩潰或悄悄產生 NaN 的問題。
 
